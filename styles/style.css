@@ -1,0 +1,12 @@
+.bg-roxo{
+    background-color: #7E459B
+}
+nav a:hover {
+    font-weight: 500 !important;
+}
+.imagem-carrosel{
+    object-fit: cover;
+    object-position: 0 30%;
+    height: 65vh;
+
+}
